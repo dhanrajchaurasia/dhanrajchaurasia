@@ -15,6 +15,10 @@
   <img width="55" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/>
 </div>
 
+## :star2: Tech Projects
+- [**Education Mania**](https://devfolio.co/submissions/educationmania-5775) [Made in Hack36 4.0]
+- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders) [Made in Devjam 4.0]
+- 
 ## :star2: Connect/Contact With Me At
 - Coding Profiles : 
   - [**Codeforces**](https://codeforces.com/profile/coderdhanraj)
