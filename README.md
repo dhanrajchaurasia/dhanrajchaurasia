@@ -6,13 +6,13 @@
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
   <img width="55" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/>
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>  
+  <img width="55" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
   <img width="55" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/>
   <img width="55" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
   <img width="55" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
   <img width="55" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/>
-  <img width="55" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/>
 </div>
 
 ## :star2: Tech Projects
