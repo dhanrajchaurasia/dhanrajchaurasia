@@ -4,7 +4,7 @@
 <h1 align="center"> :star2: TechStack </h1>
 <div align="center">
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
-  <img width="55" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
+  <img width="65" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
@@ -12,7 +12,7 @@
   <img width="55" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
   <img width="55" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
   <img width="55" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/>
-<!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/> -->
+  <img width="55" src="https://websetnet.net/wp-content/uploads/2021/05/sublime-text-icon245.png"/>
 </div>
 
 ## :star2: Connect/Contact With Me At
