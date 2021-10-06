@@ -1,5 +1,5 @@
 # Hello Folks!, This is [**Dhanraj Chaurasia's**](https://dhanrajchaurasia.github.io/) :wave:
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23E2FF47&size=25&width=620&height=80&lines=Hello+Folks!+I+am+Dhanraj+Chaurasia.;I+am+a+2nd+year+student+at+MNNIT.;An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+things.;A+quick+learner+to+develop+new+skills)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFF03C&size=25&center=true&vCenter=true&width=800&height=80&lines=Hello+Folks!+%2C++I+am+Dhanraj+Chaurasia.;I+am+a+2nd+year+student+at+MNNIT+Allahabad.;I+am+an+enthusiast+frontend+web+developer.;I+am+a+competitive+programmer+(coder).+;I+am+enthusiast+to+learn+new+things.;I+am+a+quick+learner+to+develop+new+skills)](https://git.io/typing-svg)
 ## :point_right: Check out my coding profiles : 
 - [**Codeforces**](https://codeforces.com/profile/coderdhanraj)
 - [**Codechef**](https://codechef.com/users/coderdhanraj/) [**3:star: Rated**]
