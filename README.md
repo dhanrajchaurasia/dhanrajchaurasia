@@ -7,4 +7,4 @@
 - [**At-Coder**](https://atcoder.jp/users/coderdhanraj/)
 - [**Cses**](https://cses.fi/user/75925/)
 ## Github Stats : 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=tokyonight)
