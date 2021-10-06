@@ -17,7 +17,7 @@
 
 ## :star2: Tech Projects
 - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775) [Made in [Hack36 4.0](https://www.hack36.com/)]
-- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders) [Made in [Devjam 4.0](https://www.hack36.com/)]
+- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders) [Made in [Devjam 4.0](https://woc2k21.github.io/)]
 ## 🌟Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 ## :star2: Connect/Contact With Me At
