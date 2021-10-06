@@ -3,15 +3,15 @@
 ### <p align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFF03C&size=25&center=true&vCenter=true&width=850&height=30&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills.) </p>
 <h1 align="center"> :star2: TechStack </h1>
 <div align="center">
-<!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/> -->
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+  <img width="55" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg"/>
+  <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
+  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
   <img width="55" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/>
-<!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/> -->
-<!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/> -->
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/karma.svg"/> -->
-<!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/protactor.svg"/> -->
+  <img width="55" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
+  <img width="55" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
+  <img width="55" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/>
 <!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/> -->
 </div>
 
