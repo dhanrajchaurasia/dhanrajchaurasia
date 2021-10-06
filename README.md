@@ -1,5 +1,5 @@
 # Welcome! to [**Dhanraj Chaurasia's**](https://dhanrajchaurasia.github.io/) Profile :wave:
-### An enthusiast front web developer, competitive programmer. Enthusiast to learn new things and a quick learner to develop more skills.
+### :star2: An enthusiast front web developer, competitive programmer. Enthusiast to learn new things and a quick learner to develop more skills.
 ## Introduction
 - :wave: Hello Everyone! I am Dhanraj Chaurasia. I am currently a 2nd year student at MNNIT Allahabad, pursuing Btech with Electronics & Communication Engineering stream
 ## :point_right: Check out my coding profiles : 
