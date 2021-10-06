@@ -6,12 +6,8 @@
 - [**Codechef**](https://codechef.com/users/coderdhanraj/)
 - [**At-Coder**](https://atcoder.jp/users/coderdhanraj/)
 - [**Cses**](https://cses.fi/user/75925/)
-## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanrajchaurasia&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanrajchaurasia&repo=convoychat" />
-</a>
+## Github Stats : 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+
 
 
