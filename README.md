@@ -20,6 +20,12 @@
 - [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders) [Made in [Devjam 4.0](https://woc2k21.github.io/)]
 ## 🌟Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
+## :star2: Repositories
+- [Image Editor Project](https://github.com/dhanrajchaurasia/Image-Editor-Project)
+- [Codeforces Problem Solutions](https://github.com/dhanrajchaurasia/Codeforces-Problem-Solutions)
+- [Personal Projects](https://github.com/dhanrajchaurasia/Personal-Projects)
+- [Portfolio](https://github.com/dhanrajchaurasia/dhanrajchaurasia.github.io)
+- [Profile](https://github.com/dhanrajchaurasia/dhanrajchaurasia)
 ## :star2: Connect/Contact With Me At
 - Coding Profiles : 
   - [**Codeforces**](https://codeforces.com/profile/coderdhanraj)
