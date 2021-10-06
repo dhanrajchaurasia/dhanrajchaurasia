@@ -12,7 +12,7 @@
   <img width="55" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
   <img width="55" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
   <img width="55" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/>
-  <img width="55" src="https://websetnet.net/wp-content/uploads/2021/05/sublime-text-icon245.png"/>
+  <img width="55" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/>
 </div>
 
 ## :star2: Connect/Contact With Me At
