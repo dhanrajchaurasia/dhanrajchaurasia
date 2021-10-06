@@ -6,7 +6,7 @@
 <!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/> -->
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
-  <img width="55" src="https://worldvectorlogo.com/downloaded/react-1"/>
+  <img width="55" src="https://img.icons8.com/office/16/000000/react.png"/>
 <!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/> -->
 <!--   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jasmine.svg"/> -->
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
@@ -22,6 +22,6 @@
   - [**At-Coder**](https://atcoder.jp/users/coderdhanraj/)
   - [**Cses**](https://cses.fi/user/75925/)
 - [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/)
-## <p align="center"> :star2: Github Stats </p>
+## :star2: Github Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical)</br>                   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical) 
