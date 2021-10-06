@@ -11,7 +11,7 @@
   <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
   <img width="55" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/>
   <img width="55" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
-  <img width="55" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/>
+<!--   <img width="55" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
   <img width="55" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
   <img width="55" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/>
   
