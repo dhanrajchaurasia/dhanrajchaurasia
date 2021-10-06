@@ -9,4 +9,4 @@
 ## 🌟: Github Stats : 
  - <p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical) </p>
  - <p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical) </p>
- -- <p align="center"> ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhanrajchaurasia&show_icons=true&theme=radical) </p>
+ - <p align="center"> ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhanrajchaurasia&show_icons=true&theme=radical) </p>
