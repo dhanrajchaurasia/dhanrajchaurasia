@@ -1,7 +1,7 @@
 ## <p align="center"> Hello Folks!, This is [**Dhanraj Chaurasia's**](https://dhanrajchaurasia.github.io/) :wave: </p>
 <p align="center"> I'm Dhanraj Chaurasia, currently 2nd year student at MNNIT Allahabad with ECE Stream. </p>
 </br>
-<p align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFF03C&size=25&center=true&vCenter=true&width=850&height=40&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills.) </p>
+## <p align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFF03C&size=25&center=true&vCenter=true&width=850&height=40&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills.) </p>
 <h1 align="center"> :star2: TechStacks </h1>
 <div align="center">
   <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
