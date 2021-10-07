@@ -41,7 +41,7 @@
 - [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/)
 ## :star2: Github Stats 
 <ul>
-<p align="center" style="display:inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical"/>     
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical"/></p>
+<p align="center" style="display:inline-block;"><img style="margin=10px;" src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical"/>     
+<img style="margin=10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical"/></p>
  </ul>
 
