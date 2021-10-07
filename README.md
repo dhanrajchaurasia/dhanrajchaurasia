@@ -20,8 +20,10 @@
 </div>
 
 ## :star2: Tech Projects
-- [**Education Mania**](https://devfolio.co/submissions/educationmania-5775) [Made in [Hack36 4.0](https://www.hack36.com/)]
-- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-) [Made in [Devjam 4.0](https://woc2k21.github.io/)]
+- [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [Hack36 4.0](https://www.hack36.com/)]
+- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-)  [Made in [Devjam 4.0](https://woc2k21.github.io/)]
+- [**Line Follower Robot**](https://github.com/dhanrajchaurasia/Line-Follower)  [Made in Robotics Fresher's Competition]
+- [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot)  [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects]
 ## 🌟 Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 ## :star2: Repositories
@@ -38,6 +40,8 @@
   - [**Cses**](https://cses.fi/user/75925/)
 - [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/)
 ## :star2: Github Stats 
-<p align="center" style="display:inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical"/>            
+<ul>
+<p align="center" style="display:inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical"/>     
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical"/></p>
+ </ul>
 
