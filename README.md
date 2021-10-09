@@ -1,4 +1,4 @@
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=dhanrajchaurasia&color=CA2479&label=Profile+Views&style=flat"/></p>
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=dhanrajchaurasia&color=f52c68&label=Profile+Views&style=flat"/></p>
 
 ## <p align="center"> Hello Folks!, This is [**Dhanraj Chaurasia's**](https://dhanrajchaurasia.github.io/) :wave: </p>
 <div>
@@ -7,24 +7,24 @@
 </div>
 <h2 align="center"> :star2: TechStacks </h2>
 <div align="center">
-  <img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></a>
 <!-- 
 <img width="45" src=""/><img width="45" src=""/><img width="45" src=""/> -->
-  <img width="40" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/>
-  <img width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
-  <img width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"/>
+  <a href="https://en.wikipedia.org/wiki/Sublime_Text"><img width="40" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSSL"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"/></a>
 <!--   <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>   -->
-  <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
-  <img width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/>
-  <img width="40" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/>
+  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/></a>
+  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></a>
+  <a href="https://en.wikipedia.org/wiki/Git"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/></a>
 <!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
-  <img width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
-  <img width="40" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/>
+  <a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/></a>
+  <a href="https://en.wikipedia.org/wiki/Webots"><img width="40" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/></a>
   
 </div>
 
@@ -41,17 +41,30 @@
 - [Personal Projects](https://github.com/dhanrajchaurasia/Personal-Projects)
 - [Portfolio](https://github.com/dhanrajchaurasia/dhanrajchaurasia.github.io)
 - [Profile](https://github.com/dhanrajchaurasia/dhanrajchaurasia)
-## :star2: Connect/Contact With Me At
+
+<h2 align="center"> :star2: Connect/Contact Me at </h2>
+<div align="center">
+  <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
+  <a href="https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/150px-LinkedIn_icon.svg.png"/></a>
+  <a href="#"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/></a>
+  <a href="https://www.facebook.com/dhanraj.chaurasia.18/"><img width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"/></a>
+  <a href="https://codeforces.com/profile/coderdhanraj"><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"/></a>
+<!--   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
+  <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg"/></a> -->
+  
+</div>
+
+<!-- ## :star2: Connect/Contact With Me At
 - Coding Profiles : 
   - [**Codeforces**](https://codeforces.com/profile/coderdhanraj)
   - [**Codechef**](https://codechef.com/users/coderdhanraj/)
   - [**At-Coder**](https://atcoder.jp/users/coderdhanraj/)
   - [**Cses**](https://cses.fi/user/75925/)
-- [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/)
-## :star2: Github Stats 
-<ul align="center">
-<p align="center" style="display:inline-block;"><img style="margin=10px;" src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/>     
-<img style="margin=10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Language Usage History"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" /></p>
- </ul>
-
+- [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/) -->
+<h2 align="center"> :star2: Github Stats </h2> 
+<ul align="center" style="height=300px;">
+<p align="center" style="display:inline-block;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/>     
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Language Usage History"/></p>
+ </ul></br>
+<img style="margin:10%" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" />
