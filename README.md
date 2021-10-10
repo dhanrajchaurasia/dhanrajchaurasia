@@ -63,8 +63,9 @@
 - [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/) -->
 <h2 align="center"> :star2: Github Stats </h2> 
 <ul align="center" style="height=300px;">
-<p><img "center" style="margin:100px;"src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/></br></p>  
+<p style="display:inline"><img "left" style="margin:100px;"src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/>
+  <img align="right" style="margin:10p0x;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="My Language Usage History"/></p></br>  
   <p><img align="center" style="margin:100px;"src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" /></br><p>
-<p><img align="center" style="margin:10p0x;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Language Usage History"/></p>
+
  </ul>
 
