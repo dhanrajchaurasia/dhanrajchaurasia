@@ -16,16 +16,18 @@
   <a href="https://en.wikipedia.org/wiki/Sublime_Text"><img width="40" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/></a>
   <a href="https://en.wikipedia.org/wiki/CSSL"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="34.5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"/></a>
 <!--   <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>   -->
   <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/></a>
   <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></a>
+  <a href="https://en.wikipedia.org/wiki/Node.js"><img width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"/></a>
+  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/></a>
   <a href="https://en.wikipedia.org/wiki/Git"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></a>
-  <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://www.freeiconspng.com/uploads/arduino-icon-2.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/2560px-ArduinoLogo_%C2%AE.svg.png"/></a>
 <!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
-  <a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/></a>
-  <a href="https://en.wikipedia.org/wiki/Webots"><img width="40" src="https://styles.redditmedia.com/t5_ojppm/styles/communityIcon_459yspyd67m11.png"/></a>
-  
+  <a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img width="40" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+django-1324451277244670707.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Webots"><img width="40" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>
 </div>
 
 ## :star2: Tech Projects
@@ -64,8 +66,8 @@
 <h2 align="center"> :star2: Github Stats </h2> 
 <ul align="center" style="height=300px;">
 <p><img "center" style="margin:100px;"src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/>
-</p></br>  
-  <p><img align="center" style="margin:100px;"src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" /></br></p>
+</p>
+  <p><img align="center" style="margin:100px;"src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" /></p>
     <p><img align="center" style="margin:10p0x;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="My Language Usage History"/></p>
 
  </ul>
