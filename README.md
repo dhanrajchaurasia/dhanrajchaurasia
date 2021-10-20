@@ -71,7 +71,7 @@
 <h2 align="center"> :star2: Github Stats </h2> 
 <ul align="center" style="height=300px;">
   
-  <table>
+  <table style="overflow:hidden;">
     <tr>
       <th colspan="2"><p><img align="center" style="margin:100px;" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" /></p></th></tr>
 <tr>
