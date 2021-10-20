@@ -69,22 +69,22 @@
   - [**Cses**](https://cses.fi/user/75925/)
 - [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/) -->
 <h2 align="center"> :star2: Github Stats </h2> 
-<ul align="center" style="height=300px;">
+<ul align="center">
   
-  <table style="overflow:hidden;">
+  <table>
     <tr>
-      <th colspan="2"><p><img align="center" style="margin:100px;" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" /></p></th></tr>
+      <th colspan="2"  style="overflow:hidden;"><img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" />
+      </th>
+    </tr>
 <tr>
-  <th>
-  <img "center" style="margin:100px;"src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/></th>
-  <th>
-    <p><img align="center" style="margin:10p0x;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="My Language Usage History"/></p></th>
+  <th  style="overflow:hidden;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/></th>
+  <th  style="overflow:hidden;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajchaurasia&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="My Language Usage History"/></p></th>
 </tr>
    <tr>
-     <th colspan="2">
-       <img width=95% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanrajchaurasia&theme=monokai"/>
-     </th>
-     <th>
+     <th colspan="2" style="overflow:hidden;">
+       <img width=85% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanrajchaurasia&theme=monokai"/>
      </th>
     </tr>
   </table>
