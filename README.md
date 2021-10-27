@@ -91,7 +91,12 @@
      </th>
     </tr>
   </table>
-    
-
  </ul>
 
+   
+---
+
+<p align="center">
+<p align="center">Thanks for Visiting!</p>
+<p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
+</p>
