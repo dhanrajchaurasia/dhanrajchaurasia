@@ -33,21 +33,22 @@
 </div>
 
 ## :star2: Tech Projects
-- [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [Hack36 4.0](https://www.hack36.com/)]
-- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-)  [Made in [Devjam 4.0](https://woc2k21.github.io/)]
-- [**Line Follower Robot**](https://github.com/dhanrajchaurasia/Line-Follower)  [Made in Robotics Fresher's Competition]
+- [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [**Hack36 4.0**](https://www.hack36.com/)]
+- [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-)  [Made in [**Devjam 4.0**](https://woc2k21.github.io/)]
+- [**Line Follower Robot**](https://github.com/dhanrajchaurasia/Line-Follower)  [Made in [**Robotics**](https://roboticsclub.mnnit.ac.in/) Fresher's Competition]
 - [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot)  [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects]
   
 ## 🌟 Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 - [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
+- [**Tools**](https://dhanrajchaurasia.github.io/tools/)
   
 ## :star2: Repositories
-- [Image Editor Project](https://github.com/dhanrajchaurasia/Image-Editor-Project)
-- [Codeforces Problem Solutions](https://github.com/dhanrajchaurasia/Codeforces-Problem-Solutions)
-- [Personal Projects](https://github.com/dhanrajchaurasia/Personal-Projects)
-- [Portfolio](https://github.com/dhanrajchaurasia/dhanrajchaurasia.github.io)
-- [Profile](https://github.com/dhanrajchaurasia/dhanrajchaurasia)
+- [**Image Editor Project**](https://github.com/dhanrajchaurasia/Image-Editor-Project)
+- [**Codeforces Problem Solutions**](https://github.com/dhanrajchaurasia/Codeforces-Problem-Solutions)
+- [**Personal Projects**](https://github.com/dhanrajchaurasia/Personal-Projects)
+- [**Portfolio**](https://github.com/dhanrajchaurasia/dhanrajchaurasia.github.io)
+- [**Profile**](https://github.com/dhanrajchaurasia/dhanrajchaurasia)
 
 <h2 align="center"> :star2: Connect/Contact Me at </h2>
 <div align="center">
