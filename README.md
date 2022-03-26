@@ -29,7 +29,7 @@
   <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/2560px-ArduinoLogo_%C2%AE.svg.png"/></a>
 <!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
   <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a>
-  <a href="https://en.wikipedia.org/wiki/Webots"><img width="40" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>
 </div>
 
 ## :star2: Tech Projects
@@ -60,6 +60,7 @@
   <a href="https://www.facebook.com/dhanraj.chaurasia.18/"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a>
   <a href="https://codeforces.com/profile/coderdhanraj"><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"/></a>
   <a href="https://codechef.com/users/coderdhanraj"><img width="40" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4"/></a>
+  <a href="https://atcoder.jp/users/coderdhanraj"><img width="40" src="https://i.ibb.co/n3Brz1V/atcoder-removebg-preview.png" alt="atcoder-removebg-preview" border="0"></a>
   
 <!--   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg"/></a> -->
