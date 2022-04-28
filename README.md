@@ -28,16 +28,23 @@
     <a href="https://cloud.google.com/"><img width="40" src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667"/></a>
   <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/2560px-ArduinoLogo_%C2%AE.svg.png"/></a>
 <!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
-  <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a>
-  <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>
+<!--   <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
+<!--   <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a> -->
 </div>
-
+  
+  
+## 🌟 Coding Profiles
+- I'm a **Speciaist** (max. 1508) on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
+- I'm a **5** :star: coder (max. 2043) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
+- I'm a **6 kyu** coder (max. 947) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
+  
 ## :star2: Tech Projects
 - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [**Hack36 4.0**](https://www.hack36.com/)]
 - [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-)  [Made in [**Devjam 4.0**](https://woc2k21.github.io/)]
 - [**Line Follower Robot**](https://github.com/dhanrajchaurasia/Line-Follower)  [Made in [**Robotics**](https://roboticsclub.mnnit.ac.in/) Fresher's Competition]
 - [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot)  [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects]
-  
+ 
+ 
 ## 🌟 Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 - [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
