@@ -66,33 +66,28 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 
-## :star2: Tech Projects
+## :zap: Tech Projects
 - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [**Hack36 4.0**](https://www.hack36.com/)]
 - [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-)  [Made in [**Devjam 4.0**](https://woc2k21.github.io/)]
 - [**Line Follower Robot**](https://github.com/dhanrajchaurasia/Line-Follower)  [Made in [**Robotics**](https://roboticsclub.mnnit.ac.in/) Fresher's Competition]
 - [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot)  [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects]
  
  
-## 🌟 Personal Projects
+## :anchor: Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 - [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
 - [**Tools**](https://dhanrajchaurasia.github.io/tools/)
 - [**Big Integers For C++**](https://github.com/dhanrajchaurasia/BigIntegers)
   
-## :star2: Repositories
+## :dizzy: Repositories
 - [**Image Editor Project**](https://github.com/dhanrajchaurasia/Image-Editor-Project)
 - [**Codeforces Problem Solutions**](https://github.com/dhanrajchaurasia/Codeforces-Problem-Solutions)
 - [**Personal Projects**](https://github.com/dhanrajchaurasia/Personal-Projects)
 - [**Portfolio**](https://github.com/dhanrajchaurasia/dhanrajchaurasia.github.io)
 - [**Profile**](https://github.com/dhanrajchaurasia/dhanrajchaurasia)
 
-<h2 align="center"> :star2: Connect/Contact Me at </h2>
-<div align="center">
-  
 <!--   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg"/></a> -->
-  
-</div>
 
 <!-- ## :star2: Connect/Contact With Me At
 - Coding Profiles : 
@@ -101,7 +96,10 @@
   - [**At-Coder**](https://atcoder.jp/users/coderdhanraj/)
   - [**Cses**](https://cses.fi/user/75925/)
 - [**Linkedin**](https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/) -->
-<h2 align="center"> :star2: Github Stats </h2> 
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
+<h2 align="left"> :dart: Github Stats </h2> 
 <ul align="center">
   
   <table>
@@ -123,9 +121,8 @@
   </table>
  </ul>
 
-   
----
-
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
 <p align="center">
 <p align="center">Thanks for Visiting!</p>
 <p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
