@@ -29,8 +29,8 @@
 
 </p>
 
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp; TechStacks, I'm familiar with! 
 
-<h2 align="center"> :star2: TechStacks, I'm familiar with! </h2>
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/></a>
@@ -56,14 +56,16 @@
 <!--   <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
 <!--   <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a> -->
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-## 🌟 Coding Profiles
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;  Coding Profiles
 - I'm a **Speciaist** (max. 1508) on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
 - I'm a **5** :star: coder (max. 2043) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
 - I'm a **6 kyu** coder (max. 947) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
   
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
+
 ## :star2: Tech Projects
 - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [**Hack36 4.0**](https://www.hack36.com/)]
 - [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-)  [Made in [**Devjam 4.0**](https://woc2k21.github.io/)]
