@@ -1,10 +1,35 @@
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=dhanrajchaurasia&color=f52c68&label=Profile+Views&style=flat"/></p>
+<!-- Profile View Count -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajchaurasia&label=Profile%20views&color=8e44ad&style=flat" alt="dhanrajchaurasia" /> </p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mnnitdhanraj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsmnnitdhanrajg&screen_name=mnnitdhanraj)
 
 ## <p align="center"> Hello Folks!, This is [**Dhanraj Chaurasia's**](https://dhanrajchaurasia.github.io/) :wave: </p>
 <div>
-<p align="center"> I'm Dhanraj Chaurasia, currently a 2nd year student at MNNIT Allahabad with ECE Stream. </p>
+<h3 align="center"> I'm Dhanraj Chaurasia, currently a sophomore at MNNIT Allahabad with ECE Stream. </h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=25&center=true&vCenter=true&width=850&height=30&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills."/></p>
 </div>
+  
+<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
+<!-- Contact Tag -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="left">
+<a href="https://twitter.com/mnnitdhanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhanraj-chaurasia-4309b9207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" hakraborty-b341a8191" height="30" width="40" /></a>
+<a href="https://fb.com/dhanraj.chaurasia.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" hakraborty.555" height="30" width="40" /></a>
+<a href="https://instagram.com/dhanraj.chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" height="30" width="40" /></a>&nbsp;
+<a href="mailto:mnnitdhanraj@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30" /></a>&nbsp;
+<a href="https://codeforces.com/profile/coderdhanraj" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" height="30" width="30" /></a>&nbsp;
+<a href="https://codechef.com/users/coderdhanraj" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" height="30" width="30" /></a>
+<a href="https://atcoder.jp/users/coderdhanraj" target="blank"><img align="center" src="https://i.ibb.co/n3Brz1V/atcoder-removebg-preview.png" height="40" width="40" /></a>
+<a href="https://leetcode.com/coderdhanraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/leet-code.svg" height="30" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/CoderDhanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/hackerrank.svg" height="30" width="40" /></a>&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/coderdhanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>&nbsp;
+<!-- <a href="https://https://www.hackerearth.com/@coderdhanraj" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" height="40" width="40" /></a>&nbsp; -->
+
+</p>
+
+
 <h2 align="center"> :star2: TechStacks, I'm familiar with! </h2>
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/></a>
@@ -31,7 +56,8 @@
 <!--   <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
 <!--   <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a> -->
 </div>
-  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 ## 🌟 Coding Profiles
 - I'm a **Speciaist** (max. 1508) on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
@@ -60,14 +86,6 @@
 
 <h2 align="center"> :star2: Connect/Contact Me at </h2>
 <div align="center">
-  <a href="http://www.twitter.com/mnnitdhanraj"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
-  <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
-  <a href="https://www.linkedin.com/in/dhanraj-chaurasia-4309b9207/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/150px-LinkedIn_icon.svg.png"/></a>
-  <a href="https://www.instagram.com/dhanraj.chaurasia/"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
-  <a href="https://www.facebook.com/dhanraj.chaurasia.18/"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a>
-  <a href="https://codeforces.com/profile/coderdhanraj"><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"/></a>
-  <a href="https://codechef.com/users/coderdhanraj"><img width="40" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4"/></a>
-  <a href="https://atcoder.jp/users/coderdhanraj"><img width="40" src="https://i.ibb.co/n3Brz1V/atcoder-removebg-preview.png" alt="atcoder-removebg-preview" border="0"></a>
   
 <!--   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
   <a href="mailto:mnnitdhanraj@gmail.com"><img width="40" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg"/></a> -->
