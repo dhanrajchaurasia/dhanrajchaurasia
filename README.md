@@ -13,7 +13,7 @@
 
 <!-- Contact Tag -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/mnnitdhanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhanraj-chaurasia-4309b9207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" hakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://fb.com/dhanraj.chaurasia.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" hakraborty.555" height="30" width="40" /></a>
@@ -58,7 +58,7 @@
 </div>
   
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;  Coding Profiles
-- I'm a **Speciaist** (max. 1508) on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
+- I'm a **Speciaist** (max. 1508), solved over 1K problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
 - I'm a **5** :star: coder (max. 2043) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
 - I'm a **6 kyu** coder (max. 947) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
   
