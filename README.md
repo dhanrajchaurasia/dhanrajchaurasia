@@ -12,7 +12,7 @@
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 <!-- Contact Tag -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
 <p align="center">
 <a href="https://twitter.com/mnnitdhanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhanraj-chaurasia-4309b9207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" hakraborty-b341a8191" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 
 </p>
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp; TechStacks, I'm familiar with! 
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp; TechStacks, I'm familiar with! 
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/></a>
@@ -57,7 +57,7 @@
 <!--   <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a> -->
 </div>
   
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> &nbsp;  Coding Profiles
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp;  Coding Profiles
 - I'm a **Speciaist** (max. 1508), solved over 1K problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
 - I'm a **5** :star: coder (max. 2043) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
 - I'm a **6 kyu** coder (max. 947) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
