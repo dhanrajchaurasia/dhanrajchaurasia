@@ -58,10 +58,10 @@
 </div>
   
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp;  Coding Profiles
-- I'm a **Speciaist** (max. 1509), solved 1K+ problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
-- I'm a **5** :star: coder (max. 2043) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
-- I'm a **6 kyu** coder (max. 968) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
-- I'm a **2.5** :star: coder on [**Leetcode**](https://leetcode.com/coderdhanraj)**, solved 200+ problems.**
+- I'm a **Speciaist** (max. **1509**), solved **1K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
+- I'm a **5** :star: coder (max. **2043**) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
+- I'm a **6 kyu** coder (max. **968**) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
+- I'm a **2.5** :star: coder on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **200+** problems**.**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
