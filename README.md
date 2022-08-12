@@ -5,7 +5,7 @@
 
 ## <p align="center"> Hello Folks!, This is [**Dhanraj Chaurasia's**](https://dhanrajchaurasia.github.io/) :wave: </p>
 <div>
-<h3 align="center"> I'm Dhanraj Chaurasia, currently a sophomore at MNNIT Allahabad with ECE Stream. </h3>
+<h3 align="center"> I'm Dhanraj Chaurasia, currently a pre-final year at MNNIT Allahabad with ECE Stream. </h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=25&center=true&vCenter=true&width=850&height=30&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills."/></p>
 </div>
   
@@ -61,7 +61,7 @@
 - I'm a **Speciaist** (max. **1574**), solved **1K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
 - I'm a **5** :star: coder (max. **2043**) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
 - I'm a **5 kyu** coder (max. **1031**) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
-- I'm a **2.5** :star: coder on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **200+** problems **.**
+- I'm a **Knight** (max. **1957**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **250+** problems **.**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
