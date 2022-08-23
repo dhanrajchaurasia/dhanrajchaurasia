@@ -52,25 +52,13 @@
   <a href="https://en.wikipedia.org/wiki/Git"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></a>
     <a href="https://cloud.google.com/"><img width="40" src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667"/></a>
   <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/2560px-ArduinoLogo_%C2%AE.svg.png"/></a>
+    
+    
 <!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
 <!--   <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
 <!--   <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a> -->
 </div>
-  
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp;  Coding Profiles
-- I'm a **Speciaist** (max. **1574**), solved **1.2K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
-- I'm a **5** :star: coder (max. **2122**) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
-- I'm a **4 kyu** coder (max. **1223**) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
-- I'm a **Knight** (max. **1957**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **250+** problems **.**
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
-![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/rating.svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 ## :zap: Tech Projects
 - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [**Hack36 4.0**](https://www.hack36.com/)]
@@ -79,6 +67,26 @@
 - [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot)  [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects]
  
  
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp;  Coding Profiles
+ 
+<p><img align="right" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/light_card.svg#gh-dark-mode-only" /></p>
+ 
+ <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg" /></p>
+ <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p>
+
+<br><hr>
+
+- I'm a **Speciaist** (max. **1574**), solved **1.2K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
+- I'm a **5** :star: coder (max. **2122**) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
+- I'm a **4 kyu** coder (max. **1223**) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
+- I'm a **Knight** (max. **1957**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **250+** problems **.**
+<!-- ![]() -->
+<!-- ![](https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg)
+![]() -->
+  
 ## :anchor: Personal Projects
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 - [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
