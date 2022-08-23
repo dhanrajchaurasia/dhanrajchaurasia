@@ -64,7 +64,13 @@
 - I'm a **Knight** (max. **1957**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **250+** problems **.**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  
+ 
+![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/light_card.svg)
+![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/dhanrajchaurasia/cf-stats/main/output/rating.svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## :zap: Tech Projects
 - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775)  [Made in [**Hack36 4.0**](https://www.hack36.com/)]
