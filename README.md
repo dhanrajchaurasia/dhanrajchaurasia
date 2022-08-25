@@ -73,6 +73,9 @@
  ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp;  Coding Profiles
  
 <p><img align="right" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/light_card.svg#gh-dark-mode-only" /></p>
+<img src="https://cp-logo.vercel.app/leetcode/coderdhanraj" alt="Leet code rating" />
+
+  </a>
  
  <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg" /></p>
  <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p>
