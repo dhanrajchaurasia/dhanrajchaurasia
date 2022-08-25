@@ -76,7 +76,7 @@
  
  <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg" /></p>
  <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p>
-
+<img height="273em" src="https://leetcard.jacoblin.cool/coderdhanraj?theme=dark&font=Karma&ext=contest" />
 <br><hr>
 
 - I'm a **Speciaist** (max. **1574**), solved **1.2K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
