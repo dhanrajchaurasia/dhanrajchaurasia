@@ -73,29 +73,33 @@
  ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp;  Coding Profiles
  
 <p><img align="right" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/light_card.svg#gh-dark-mode-only" /></p>
-<img src="https://cp-logo.vercel.app/leetcode/coderdhanraj" alt="Leet code rating" />
+<img align="right" src="https://cp-logo.vercel.app/leetcode/coderdhanraj" alt="Leet code rating" />
 
   </a>
  
  <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg" /></p>
- <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p>
-<img height="273em" src="https://leetcard.jacoblin.cool/coderdhanraj?theme=dark&font=Karma&ext=contest" />
+ <!-- <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p> -->
 <br><hr>
 
 - I'm a **Speciaist** (max. **1574**), solved **1.2K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
 - I'm a **5** :star: coder (max. **2122**) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
 - I'm a **4 kyu** coder (max. **1223**) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
 - I'm a **Knight** (max. **1957**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **250+** problems **.**
+
 <!-- ![]() -->
 <!-- ![](https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg)
 ![]() -->
   
 ## :anchor: Personal Projects
+
+<img align="right" height="273em" src="https://leetcard.jacoblin.cool/coderdhanraj?theme=dark&font=Karma&ext=contest" />
+
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 - [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
 - [**Tools**](https://dhanrajchaurasia.github.io/tools/)
 - [**Big Integers For C++**](https://github.com/dhanrajchaurasia/BigIntegers)
   
+
 ## :dizzy: Repositories
 - [**Image Editor Project**](https://github.com/dhanrajchaurasia/Image-Editor-Project)
 - [**Codeforces Problem Solutions**](https://github.com/dhanrajchaurasia/Codeforces-Problem-Solutions)
