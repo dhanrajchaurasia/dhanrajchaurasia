@@ -92,13 +92,13 @@
   
 ## :anchor: Personal Projects
 
-<img align="right" height="273em" src="https://leetcard.jacoblin.cool/coderdhanraj?theme=dark&font=Karma&ext=contest" />
 
 - [**Image Editor**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
 - [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
 - [**Tools**](https://dhanrajchaurasia.github.io/tools/)
 - [**Big Integers For C++**](https://github.com/dhanrajchaurasia/BigIntegers)
   
+<img align="right" height="273em" src="https://leetcard.jacoblin.cool/coderdhanraj?theme=dark&font=Karma&ext=contest" />
 
 ## :dizzy: Repositories
 - [**Image Editor Project**](https://github.com/dhanrajchaurasia/Image-Editor-Project)
