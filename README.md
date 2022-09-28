@@ -81,10 +81,10 @@
  <!-- <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p> -->
 <br><hr>
 
-- I'm an **Expert** (max. **1683**), solved **1.2K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
+- I'm an **Expert** (max. **1723**), solved **1.3K+** problems on [**Codeforces**](https://codeforces.com/profile/coderdhanraj)**.**
 - I'm a **5** :star: coder (max. **2122**) on [**Codechef**](https://codechef.com/users/coderdhanraj)**.**
 - I'm a **4 kyu** coder (max. **1223**) on [**Atcoder**](https://atcoder.jp/users/coderdhanraj)**.**
-- I'm a **Knight** (max. **2121**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **250+** problems **.**
+- I'm a **Knight** (max. **2121**) on [**Leetcode**](https://leetcode.com/coderdhanraj), solved **300+** problems **.**
 
 <!-- ![]() -->
 <!-- ![](https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg)
