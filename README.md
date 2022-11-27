@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
           
 <!-- Profile View Count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajchaurasia&label=Profile%20views&color=8e44ad&style=flat" alt="dhanrajchaurasia" /> </p>
@@ -30,8 +29,11 @@
 <!-- <a href="https://https://www.hackerearth.com/@coderdhanraj" target="blank"><img align="center" src="https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" height="40" width="40" /></a>&nbsp; -->
           
 </p>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dhanraj-chaurasia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dhanraj-chaurasia?trk=profile-badge">Dhanraj Chaurasia</a></div>
-              
+
+
+
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px"  width = 32px> &nbsp; TechStacks, I'm familiar with! 
 
 <div align="center">
@@ -151,3 +153,8 @@
 <p align="center">Thanks for Visiting!</p>
 <p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
 </p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"\>
+
+</script\>
+
