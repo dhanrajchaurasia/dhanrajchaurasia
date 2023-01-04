@@ -141,7 +141,7 @@
 </tr>
    <tr>
      <th colspan="2" style="overflow:hidden;">
-       <img width=85% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanrajchaurasia&theme=monokai"/>
+       <img width=85% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanrajchaurasia&theme=radical"/>
      </th>
     </tr>
   </table>
@@ -153,8 +153,8 @@
 <p align="center">Thanks for Visiting!</p>
 <p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
 </p>
-
+<!-- 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"\>
 
-</script\>
+</script\> -->
 
