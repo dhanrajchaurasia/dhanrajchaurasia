@@ -7,11 +7,14 @@
 ## <p align="center"> Hello Folks!, I am [**Dhanraj Chaurasia**](https://dhanrajchaurasia.github.io/) :wave: </p>
 
 ### 🌠 Projects/Repositories
-- [**EducationMania**](https://github.com/Day-Night-Coders-Hack-36/Education-Project): A basic web app which contains collection of ebooks and study materials, to-dos, chat, typing-tutor, html-css-tutor made with javascript morely focused on education/learning purpose. (Techs. Used: Bootstrap, JS)
+- [**CP-Grind**](https://github.com/dhanrajchaurasia/CP-Grind): A restful-api web app with golang which interacts with codeforces and atcoder api and fetches data and provide some data as a result of CRUD apis. (Techs. Used: GoLang, PostgreSQL, Redis)
+
+- [**ViewHUB**](https://github.com/TriDev-Avishkar2k22/ViewHUB-Webster): A django based, social-media platform that provides many features similar to Youtube with more additional features. (Techs. Used: Django, Python, SQLite)
 
 - [**DiagnosisTracker**](https://github.com/dhanrajchaurasia/DiagnosisTracker): A basic web app with django which contains open-cv (face-recognition) as an authentication and a dashboard for users to mark/unmark their diagnosis and track them. (Techs. Used: Bootstrap, Python-OpenCV, Django, Sqlite3)
 
 - [**AR-Curve**](https://github.com/dhanrajchaurasia/ARCurve): A basic web app with MERN and EJS which contains 3D-Model mapping with images/audios/videos/files with an android app with Unix-Engine. (Techs. Used: Bootstrap, EJS, MongoDB, NodeJS, Unix-Engine) [Accessible Link](https://ar-curve.onrender.com/)
+- [**EducationMania**](https://github.com/Day-Night-Coders-Hack-36/Education-Project): A basic web app which contains collection of ebooks and study materials, to-dos, chat, typing-tutor, html-css-tutor made with javascript morely focused on education/learning purpose. (Techs. Used: Bootstrap, JS)
 
 - [**Image-Editor**](https://github.com/dhanrajchaurasia/Image-Editor-Project): A basic JS based app to edit images. (Techs. Used: JS) [Accessible Link](https://dhanrajchaurasia.github.io/image-editor-project/)
 
