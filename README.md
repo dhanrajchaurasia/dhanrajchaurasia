@@ -11,6 +11,8 @@
 
 - [**ViewHUB**](https://github.com/TriDev-Avishkar2k22/ViewHUB-Webster): A django based, social-media platform that provides many features similar to Youtube with more additional features. (Techs. Used: Django, Python, SQLite)
 
+- [**CF Get Problems**](https://github.com/dhanrajchaurasia/CF-Get-Problems): A chrome extension ([firefox-addon](https://addons.mozilla.org/en-GB/firefox/addon/cf-get-problems/)) which helps to fetch codeforces problems also it helps in getting the verdicts with codeforce api.
+
 - [**DiagnosisTracker**](https://github.com/dhanrajchaurasia/DiagnosisTracker): A basic web app with django which contains open-cv (face-recognition) as an authentication and a dashboard for users to mark/unmark their diagnosis and track them. (Techs. Used: Bootstrap, Python-OpenCV, Django, Sqlite3)
 
 - [**AR-Curve**](https://github.com/dhanrajchaurasia/ARCurve): A basic web app with MERN and EJS which contains 3D-Model mapping with images/audios/videos/files with an android app with Unix-Engine. (Techs. Used: Bootstrap, EJS, MongoDB, NodeJS, Unix-Engine) [Accessible Link](https://ar-curve.onrender.com/)
