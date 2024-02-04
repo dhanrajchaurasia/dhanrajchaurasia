@@ -8,9 +8,11 @@
 
 ### 🌠 Projects/Repositories
 
-- [**ViewHUB**](https://github.com/TriDev-Avishkar2k22/ViewHUB-Webster): A django based, social-media platform that provides many features similar to Youtube with more additional features. (Techs. Used: Django, Python, SQLite)  [Accessible Link](https://viewhub.vercel.app/)
+- [**ViewHUB**](https://github.com/dhanrajchaurasia/ViewHUB-build): A django based, social-media platform that provides many features similar to Youtube with more additional features. (Techs. Used: Django, Python, PostgreSQL)  [Accessible Link](https://viewhub.vercel.app/)
 
 - [**CP-Grind**](https://github.com/dhanrajchaurasia/CP-Grind): A restful-api web app with golang which interacts with codeforces and atcoder api and fetches data and provide some data as a result of CRUD apis. (Techs. Used: GoLang, PostgreSQL, Redis)
+
+- [**Pastebin**](https://github.com/dhanrajchaurasia/pastebin): A django based simple pastebin app. (Techs. Used: Django, PostgrSQL) [Accessible Link](https://pastebin-app.vercel.app)
 
 - [**CF Get Problems**](https://github.com/dhanrajchaurasia/CF-Get-Problems): A chrome extension ([firefox-addon](https://addons.mozilla.org/en-GB/firefox/addon/cf-get-problems/)) which helps to fetch codeforces problems also it helps in getting the verdicts with codeforce api.
 
